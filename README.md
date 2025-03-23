@@ -1,3 +1,3 @@
-The programs I include in this folder are ones I have completed either as a hobby or as college projects. 
+The programs I include in this repository are from personal hobbies or college assignments I have completed. 
 
 I myself use this for a reference guide as well if needed.
